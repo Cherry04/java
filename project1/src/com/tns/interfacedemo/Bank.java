@@ -6,5 +6,6 @@ package com.tns.interfacedemo;
 
 public interface Bank {
 	
+	public float rateofinterest();
 
 }
